@@ -1,0 +1,15 @@
+Line 1 of the input file has plagarised from line 1 of the source file test.txt 1 time string matching found
+Line 3 of the input file has plagarised from line 1 of the source file test.txt 1 time string matching found
+Line 5 of the input file has plagarised from line 1 of the source file test.txt 1 time string matching found
+Line 2 of the input file has plagarised from line 2 of the source file test.txt 1 time string matching found
+Line 4 of the input file has plagarised from line 2 of the source file test.txt 1 time string matching found
+Line 1 of the input file has plagarised from line 3 of the source file test.txt 1 time string matching found
+Line 3 of the input file has plagarised from line 3 of the source file test.txt 1 time string matching found
+Line 5 of the input file has plagarised from line 3 of the source file test.txt 1 time string matching found
+Line 2 of the input file has plagarised from line 4 of the source file test.txt 1 time string matching found
+Line 4 of the input file has plagarised from line 4 of the source file test.txt 1 time string matching found
+Line 1 of the input file has plagarised from line 5 of the source file test.txt 1 time string matching found
+Line 3 of the input file has plagarised from line 5 of the source file test.txt 1 time string matching found
+Line 5 of the input file has plagarised from line 5 of the source file test.txt 1 time string matching found
+Line 2 of the input file has plagarised from line 2 of the source file test2.txt 1 time string matching found
+Line 4 of the input file has plagarised from line 2 of the source file test2.txt 1 time string matching found
