@@ -1,0 +1,6 @@
+('Sudhir.txt', 'requirements.txt', 0.0)
+('requirements.txt', 'swetha.txt', 0.0)
+('Sudhir.txt', 'john.txt', 0.5713243251172899)
+('Sudhir.txt', 'swetha.txt', 0.20179089793739657)
+('john.txt', 'swetha.txt', 0.16228391831223246)
+('john.txt', 'requirements.txt', 0.0)
